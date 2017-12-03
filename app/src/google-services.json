@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "665431847330",
+    "project_id": "digitech-soln"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:665431847330:android:861acad410eb6cfb",
+        "android_client_info": {
+          "package_name": "com.example.actech.digitecsoln"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "665431847330-3rqaevbfa77go4mv9s0hsf39pb3r1ere.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.actech.digitecsoln",
+            "certificate_hash": "bd12f2a2864ade38b86e180ed5a47c0b9fdd0631"
+          }
+        },
+        {
+          "client_id": "665431847330-4io3g31lcslnjh42prlnbm5apqpvp3er.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXo_ZZqyIjxpHMeXroLpkP1K_abWnwmOo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
