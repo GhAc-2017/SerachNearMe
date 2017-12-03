@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">DigitecSoln</string>
+    <string name="title_activity_login">Sign in</string>
+
+    <string-array name="City">
+        <item>Kolkata</item>
+        <item>Amritsar</item>
+        <item>Bengaluru</item>
+        <item>Noida</item>
+        <item>Hydrabad</item>
+        <item>Mumbai</item>
+    </string-array>
+
+    <string name="facebook_app_id">1233155710118183</string>
+    <string name="fb_login_protocol_scheme">fb1233155710118183</string>
+
+</resources>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Hotel Details : "
+        android:textAppearance="?android:textAppearanceLarge"
+        android:id="@+id/hdr"
+       android:layout_centerHorizontal="true"
+        android:layout_alignParentTop="true"
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Hotel Name : "
+        android:textAppearance="?android:textAppearanceLarge"
+        android:id="@+id/nm"
+        android:layout_below="@id/hdr"
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Ratings : "
+        android:textAppearance="?android:textAppearanceLarge"
+        android:id="@+id/rt"
+        android:layout_below="@id/nm"
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Types : "
+        android:textAppearance="?android:textAppearanceLarge"
+        android:id="@+id/typ"
+        android:layout_below="@id/rt"
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Hotel Name : "
+        android:textAppearance="?android:textAppearanceLarge"
+        android:id="@+id/vcn"
+        android:layout_below="@id/typ"
+        />
+
+</RelativeLayout>
